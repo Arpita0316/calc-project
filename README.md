@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator project.
+A scientific calculator with power and square root.
